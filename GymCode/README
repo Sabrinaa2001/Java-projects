@@ -1,0 +1,21 @@
+TinderBoltApp
+TinderBoltApp is a Telegram bot designed to interact with users in an engaging and dynamic way, utilizing the ChatGPT API to answer questions and generate content. This bot offers various features related to dating, profile creation, conversation openers, and ChatGPT queries, all through a user-friendly interface with buttons on Telegram.
+
+Features
+Profile Generation: Create a profile with basic information such as name, age, hobbies, life goals, and occupation.
+Conversation Openers: The bot can help you generate an opener message to start a conversation.
+Celebrity Dates: Choose a famous celebrity you would like to "go on a date" with.
+ChatGPT: Ask ChatGPT questions and receive real-time responses.
+
+Key Functions in the Program:
+/start: Starts the interaction with the bot and displays the main menu.
+/gpt: Allows you to ask questions to ChatGPT.
+/date: Allows you to choose a celebrity for a "date."
+/profile: Creates a personal profile.
+/opener: Generates a conversation opener message.
+
+Installation
+Clone the repository or download the source code.
+bash
+Copy code
+git clone <repository-url>
